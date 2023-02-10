@@ -1,2 +1,4 @@
-# flutter-basics
-The repository name is temporary, i 'll change it when i think what project will be developed
+# Just a temporary name! I'm doing some research to pick up a project domain 🤠
+
+
+` By the way, i'll also save my class annotations here ;)`
