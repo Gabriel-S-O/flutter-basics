@@ -2,7 +2,7 @@
 
 * `05/05 prática`  
 * `12/05 fechamento`  
-*`19/05 recuperação`
+* `19/05 recuperação`
 
 
 
