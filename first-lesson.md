@@ -17,11 +17,11 @@
 
 # Diário de aula 
 
-`Entregar periodicamente as atividades`
+ `Entregar periodicamente as atividades`
 
 
 # Sábados Letivos
 
 * `25/02`  
-*`19/08`  
-*`30/09`
+* `19/08`  
+* `30/09`
